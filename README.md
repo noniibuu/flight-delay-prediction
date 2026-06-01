@@ -16,6 +16,7 @@
 
 *Trained on 500,000 flights (stratified sample of 5,819,079 total)*
 
+![Final comparison](final_comparison.png)
 ---
 
 ## Dataset
